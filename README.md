@@ -1,6 +1,6 @@
 # gochat
 fullstack go chat app
 
-## Rest API: done
-## Websockets
-## Frontend
+* Rest API: done
+* Websockets
+* Frontend
